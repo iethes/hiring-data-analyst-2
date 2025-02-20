@@ -68,8 +68,8 @@ Once you have completed the test:
 
 1. **Commit and push** your solutions to a **private GitHub repository**.
 2. **Grant access** to the following reviewers:
-   - **[ichsan@adskom.com](mailto:ichsan@adskom.com)**
    - **[bima@magpie.co.id](mailto:bima@magpie.co.id)**
+   - **[alina@magpie.co.id](mailto:alina@magpie.co.id)**
 3. **Send us an email** confirming your submission.
 
 ---
